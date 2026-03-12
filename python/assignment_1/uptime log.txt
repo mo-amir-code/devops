@@ -1,0 +1,12 @@
+INFO:root:http://www.example.com/nonexistentpage 404 Not Found
+INFO:root:https://www.google.com/ 200 OK
+INFO:root:http://www.example.com/nonexistentpage 404 Not Found
+INFO:root:https://www.google.com/ 200 OK
+INFO:root:http://www.example.com/nonexistentpage 404 Not Found
+INFO:root:https://www.google.com/ 200 OK
+INFO:root:http://www.example.com/nonexistentpage 404 Not Found
+INFO:root:https://www.google.com/ 200 OK
+INFO:root:http://www.example.com/nonexistentpage 404 Not Found
+INFO:root:https://www.google.com/ 200 OK
+INFO:root:http://www.example.com/nonexistentpage 404 Not Found
+INFO:root:https://www.google.com/ 200 OK

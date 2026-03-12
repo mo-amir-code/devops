@@ -1,0 +1,66 @@
+{
+  "orders": [
+    {
+      "order_id": "O001",
+      "customer": {
+        "id": "C001",
+        "name": "Alice Brown",
+        "email": "alice@example.com"
+      },
+      "items": [
+        {"product_id": "P001", "name": "Laptop", "price": 950.50, "quantity": 1}
+      ],
+      "shipping_address": "12 King St, Austin, TX"
+    },
+    {
+      "order_id": "O002",
+      "customer": {
+        "id": "C002",
+        "name": "Bob Smith",
+        "email": "bob@example.com"
+      },
+      "items": [
+        {"product_id": "P002", "name": "Mouse", "price": 20.99, "quantity": 2},
+        {"product_id": "P003", "name": "Keyboard", "price": 75.00, "quantity": 1}
+      ],
+      "shipping_address": "45 Lake Rd, Denver, CO"
+    },
+    {
+      "order_id": "O003",
+      "customer": {
+        "id": "C003",
+        "name": "Charlie Davis",
+        "email": "charlie@example.com"
+      },
+      "items": [
+        {"product_id": "P004", "name": "Monitor", "price": 199.99, "quantity": 1}
+      ],
+      "shipping_address": "89 Hill Ave, Miami, FL"
+    },
+    {
+      "order_id": "O004",
+      "customer": {
+        "id": "C001",
+        "name": "Alice Brown",
+        "email": "alice@example.com"
+      },
+      "items": [
+        {"product_id": "P005", "name": "Headphones", "price": 120.00, "quantity": 1},
+        {"product_id": "P006", "name": "USB Cable", "price": 10.50, "quantity": 3}
+      ],
+      "shipping_address": "12 King St, Austin, TX"
+    },
+    {
+      "order_id": "O005",
+      "customer": {
+        "id": "C004",
+        "name": "Diana Lee",
+        "email": "diana@example.com"
+      },
+      "items": [
+        {"product_id": "P007", "name": "Phone", "price": 650.00, "quantity": 1}
+      ],
+      "shipping_address": "77 Park Blvd, Seattle, WA"
+    }
+  ]
+}

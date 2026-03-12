@@ -1,0 +1,8 @@
+Order ID,Customer Name,Product Name,Product Price,Quantity Purchased,Total Value,Discount,Shipping Cost,Final Total,Shipping Address,Country Code
+O001,Alice Brown,Laptop,950.5,1,950.5,95.05000000000001,5,860.45,"12 King St, Austin, TX",TX
+O002,Bob Smith,Mouse,20.99,2,41.98,0,10,51.98,"45 Lake Rd, Denver, CO",CO
+O002,Bob Smith,Keyboard,75.0,1,75.0,0,5,80.0,"45 Lake Rd, Denver, CO",CO
+O003,Charlie Davis,Monitor,199.99,1,199.99,19.999000000000002,5,184.991,"89 Hill Ave, Miami, FL",FL
+O004,Alice Brown,Headphones,120.0,1,120.0,12.0,5,113.0,"12 King St, Austin, TX",TX
+O004,Alice Brown,USB Cable,10.5,3,31.5,0,15,46.5,"12 King St, Austin, TX",TX
+O005,Diana Lee,Phone,650.0,1,650.0,65.0,5,590.0,"77 Park Blvd, Seattle, WA",WA
